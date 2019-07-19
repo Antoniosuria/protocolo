@@ -36,7 +36,19 @@ background:url('http://www.cssawds.com/ribbons/brand-award-right.png') no-repeat
 
 
 
-#comments a{
+.comentarios{
+	display: flex;
+	justify-content: center;
+	background: #2d2d2d;
+	color: white;
+}
+
+/* .box-comment{
+	width: 60%;
+} */
+
+
+.comentarios a{
 	color: red;
 	font-weight: normal !important;
 }
