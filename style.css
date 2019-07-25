@@ -239,7 +239,7 @@ background:url('http://www.cssawds.com/ribbons/brand-award-right.png') no-repeat
   position: absolute;
   left: 50%;
   top: 50%;
-	animation: mymove2 3s linear;
+	animation: mymove2 2s linear;
   -webkit-transform: translate(20%, -10%);
   transform: translate(20%, -10%);
 }
@@ -281,7 +281,7 @@ background:url('http://www.cssawds.com/ribbons/brand-award-right.png') no-repeat
   position: absolute;
   left: 50%;
   top: 50%;
-	animation: mymove 3s linear;
+	animation: mymove 2s linear;
   -webkit-transform: translate(-120%, -10%);
   transform: translate(-120%, -10%);
 }
@@ -685,3 +685,4 @@ p{
 .fir{
 	border: 0;
 }
+
